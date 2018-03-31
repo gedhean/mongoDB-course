@@ -1,0 +1,27 @@
+{
+  "name": "mongodb-course",
+  "version": "1.0.0",
+  "description": "MongoDB course for Node.js Developers",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gedhean/mongoDB-course.git"
+  },
+  "keywords": [
+    "mongodb",
+    "course",
+    "nodejs"
+  ],
+  "author": "Gêdhean Alves Vieira <gedhean1@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gedhean/mongoDB-course/issues"
+  },
+  "homepage": "https://github.com/gedhean/mongoDB-course#readme",
+  "dependencies": {
+    "mongodb": "^3.0.5"
+  }
+}
